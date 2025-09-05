@@ -12,3 +12,8 @@ wheels/
 /.webui_secret_key
 .jsonl
 .html
+/med_extractions_j.jsonl
+/med_extractions.html
+/med_extractions.jsonl
+/sample1.html
+/sample1.jsonl
